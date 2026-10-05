@@ -4,8 +4,8 @@ import numpy as np
 
 # ReLU activation function
 def relu(z):
-    return np.maximum(0, z)
-
+    y=np.maximum(0, z)
+    return y
 # Creating random input vector with 4 input neurons
 x = np.random.randn(4, 1)
 

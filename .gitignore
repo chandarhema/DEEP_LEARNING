@@ -2,3 +2,4 @@ venv/
 .idea/
 __pycache__/
 *.pyc
+IA1/dl_dataset/train_20000.npz

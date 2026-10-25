@@ -3,3 +3,7 @@ venv/
 __pycache__/
 *.pyc
 IA1/dl_dataset/train_20000.npz
+
+lab_13/chr9.fa
+lab_13/chr22.fa
+lab_13/ENCFF540FNK.bed.gz
